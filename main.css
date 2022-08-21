@@ -105,11 +105,11 @@ body{
     margin-bottom: -5px;
 }
 .text .stars{
-    margin-bottom: -3px;
+    margin-bottom: -2px;
 }
 .text .stars i{
     font-size: 13px;
-    color: #333;
+    color: #d4a373;
 }
 .text article{
     font-size: 15px;
